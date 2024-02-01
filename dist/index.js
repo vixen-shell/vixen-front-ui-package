@@ -1,4 +1,6 @@
-import { u as o } from "./index-Ha3kYvXN.js";
+import { default as e } from "./components/Frame/index.js";
+import { default as f } from "./components/ErrorFrame/index.js";
 export {
-  o as default
+  f as ErrorFrame,
+  e as Frame
 };
